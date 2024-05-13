@@ -1,0 +1,24 @@
+
+---Downloaded files---
+The import files for: Vayvo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = https://vayvo.progressionstudios.com
+Data file = /srv/htdocs/wp-content/themes/vayvo-progression//inc/demo/content.xml
+Widget file = /srv/htdocs/wp-content/themes/vayvo-progression//inc/demo/widgets.wie
+Customizer file = /srv/htdocs/wp-content/themes/vayvo-progression//inc/demo/theme_options.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

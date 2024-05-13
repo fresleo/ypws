@@ -1,0 +1,101 @@
+
+---Downloaded files---
+The import files for: Vayvo were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://localhost:8888
+Data file = C:\Users\cyf\Desktop\jianzhan\wordpress/wp-content/themes/vayvo-progression//inc/demo/content.xml
+Widget file = C:\Users\cyf\Desktop\jianzhan\wordpress/wp-content/themes/vayvo-progression//inc/demo/widgets.wie
+Customizer file = C:\Users\cyf\Desktop\jianzhan\wordpress/wp-content/themes/vayvo-progression//inc/demo/theme_options.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import video-genres Action
+[WARNING] Failed to import video-type Documentary
+[WARNING] Failed to import video-genres Drama
+[WARNING] Failed to import video-category Featured
+[WARNING] Failed to import video-cast Keanu Reeves
+[WARNING] Failed to import video-type Movies
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import video-type Podcasts
+[WARNING] Failed to import video-genres Sci-fi
+[WARNING] Failed to import video-category Season 1
+[WARNING] Failed to import video-category Season 2
+[WARNING] Failed to import video-category Season 3
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import video-type Television
+
+
+------
+New AJAX call!
+[WARNING] Failed to import video-genres Action
+[WARNING] Failed to import video-type Documentary
+[WARNING] Failed to import video-genres Drama
+[WARNING] Failed to import video-category Featured
+[WARNING] Failed to import video-cast Keanu Reeves
+[WARNING] Failed to import video-type Movies
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import video-type Podcasts
+[WARNING] Failed to import video-genres Sci-fi
+[WARNING] Failed to import video-category Season 1
+[WARNING] Failed to import video-category Season 2
+[WARNING] Failed to import video-category Season 3
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import video-type Television
+
+
+------
+New AJAX call!
+[WARNING] Failed to import video-genres Action
+[WARNING] Failed to import video-type Documentary
+[WARNING] Failed to import video-genres Drama
+[WARNING] Failed to import video-category Featured
+[WARNING] Failed to import video-cast Keanu Reeves
+[WARNING] Failed to import video-type Movies
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import video-type Podcasts
+[WARNING] Failed to import video-genres Sci-fi
+[WARNING] Failed to import video-category Season 1
+[WARNING] Failed to import video-category Season 2
+[WARNING] Failed to import video-category Season 3
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import video-type Television
+[WARNING] Failed to import "Footer – Vayvo": Invalid post type elementor_library
+
+
+------
+New AJAX call!
+[WARNING] Failed to import video-genres Action
+[WARNING] Failed to import video-type Documentary
+[WARNING] Failed to import video-genres Drama
+[WARNING] Failed to import video-category Featured
+[WARNING] Failed to import video-cast Keanu Reeves
+[WARNING] Failed to import video-type Movies
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import video-type Podcasts
+[WARNING] Failed to import video-genres Sci-fi
+[WARNING] Failed to import video-category Season 1
+[WARNING] Failed to import video-category Season 2
+[WARNING] Failed to import video-category Season 3
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import video-type Television
+[WARNING] Failed to import "Footer – Vayvo": Invalid post type elementor_library
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
